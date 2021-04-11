@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+
+
+
+body {
+	background-color: skyblue;
+	color: #FFFFFF;
+}
+
+main {
+	
+  margin: auto;
+  width: 450px;
+  padding: 40px;
+  
+}
+
+main * {
+	margin-top: 5px;
+}
+
+.weatherList {
+	background-color: #FFF;
+}
